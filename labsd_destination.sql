@@ -1,3 +1,10 @@
+create table destination
+(
+    id   varchar(255) not null
+        primary key,
+    name varchar(255) null
+);
+
 INSERT INTO labsd.destination (id, name) VALUES ('10', 'Baritiu D21');
 INSERT INTO labsd.destination (id, name) VALUES ('12', 'USA');
 INSERT INTO labsd.destination (id, name) VALUES ('13', 'Miami');
