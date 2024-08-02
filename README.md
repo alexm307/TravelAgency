@@ -20,7 +20,6 @@ This project involves the development of an application designed to manage vacat
 - Java Spring Framework
 - MySQL Database
 - Maven (for dependency management)
-- Thymeleaf (for rendering views)
 
 ## Installation
 
